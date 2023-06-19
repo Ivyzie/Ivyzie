@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Ivyzie
-- 👀 I’m interested in learning how to program!
-- 🌱 I’m currently learning C programming.
-- 💞️ I’m looking to collaborate on idk lol
-- 📫 How to reach me = ivancjz@hotmail.com
+- 👀 I’m interested in learning how to program and develop!
+- 🌱 I’m currently learning React with NextJS. I am also taking a cybersecurity course by Google on Coursera.
+- 💞️ I’m looking to collaborate on simple projects.
+- 📫 How to reach me = ivanchanjz@gmail.com
 
 <!---
 Ivyzie/Ivyzie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
