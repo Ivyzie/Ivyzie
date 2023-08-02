@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ivyzie
 - 👀 I’m interested in learning how to program and develop!
-- 🌱 I’m currently learning React with NextJS. I am also taking a cybersecurity course by Google on Coursera.
+- 🌱 I’m currently learning React with Vite. I am also taking a cybersecurity course by Google on Coursera.
 - 💞️ I’m looking to collaborate on simple projects.
 - 📫 How to reach me = ivanchanjz@gmail.com
 
